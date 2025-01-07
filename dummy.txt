@@ -1,1 +1,1 @@
-trigger ci
+to trigger ci
