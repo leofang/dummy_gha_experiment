@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - old_branch
+      - main
   workflow_dispatch:
 
 jobs:
