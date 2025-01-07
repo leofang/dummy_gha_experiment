@@ -5,7 +5,7 @@ concurrency:
 on:
   push:
     branches:
-      - old_branch
+      - 'old_branch'
       - main
   workflow_dispatch:
 
